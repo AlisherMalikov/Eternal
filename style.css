@@ -28,7 +28,7 @@
 }
 .menu_nav a:before{
 	content: " ";
-	width: 82%;
+	width: 85%;
 	height: 5px;
 	background: #54d054;
 	position: absolute;
@@ -192,6 +192,8 @@
 .butt2 a:after{
 	content:"\2192" ;
 	color:#FFFFFF;
+}
+
 
 
 	
