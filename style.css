@@ -210,14 +210,14 @@
 
 }
 .my_flex{
-display: -webkit-flex;
-display: -moz-flex;
-display: -ms-flex;
-display: -o-flex;
-display: flex;
-flex-direction: column;
-background-color: #f2f1f1;
-height: 400px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f1f1;
+    height: 400px;
 }
 .flex_item{
     display: flex;
@@ -244,8 +244,44 @@ height: 400px;
 	align-items: stretch;
 
 }
+.social_net{
+	display: inline-block;
+	width: 84px;
+	height: 28px;
+	border-radius: 50px;
+	background-color:#e6e7e6;
 
-
-	
+}
+.info_btn{
+	display:inline-block;
+	width: 81px;
+	height: 18px;
+	border-radius: 3px;
+	background-color: #54d154;
+}
+.info_btn p{
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.info_btn a:hover{
+	list-style: none;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none !important ;
+}
+.orange{
+	width: 77px;
+     background-color: #ffba00;
+}
+.blue{
+	width: 107px;
+	background-color: #089dea;
+}
+.red{
+	width: 47px;
+	background-color: #f34d04;
+}
 
 
